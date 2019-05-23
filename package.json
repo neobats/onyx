@@ -1,0 +1,22 @@
+{
+    "name": "onyx",
+    "publisher": "doay",
+    "displayName": "Onyx",
+    "description": "Plain dark theme, inspired from Alabaster theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Onyx",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Onyx-color-theme.json"
+            }
+        ]
+    }
+}
