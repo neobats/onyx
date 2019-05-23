@@ -1,6 +1,7 @@
 {
     "name": "onyx",
     "publisher": "doay",
+    "repository": {"url": "https://github.com/doayakut/onyx"},
     "displayName": "Onyx",
     "description": "Plain dark theme, inspired from Alabaster theme",
     "version": "0.0.1",
