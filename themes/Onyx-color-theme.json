@@ -20,7 +20,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#cad160"
+				"foreground": "#81c784"
 			}
 		},
 		{
@@ -39,14 +39,14 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#ffa726"
+				"foreground": "#c2bf36"
 			}
 		},
 		{
 			"name": "Global definitions",
 			"scope": "entity.name",
 			"settings": {
-				"foreground": "#81c784"
+				"foreground": "#f1aa3f"
 			}
 		},
 		{
