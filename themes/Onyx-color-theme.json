@@ -9,7 +9,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#ff5722"
 			}
 		},
 		{
@@ -20,7 +20,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#cb8"
+				"foreground": "#cad160"
 			}
 		},
 		{
@@ -39,14 +39,14 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#89ca78"
+				"foreground": "#ffa726"
 			}
 		},
 		{
 			"name": "Global definitions",
 			"scope": "entity.name",
 			"settings": {
-				"foreground": "#61afef"
+				"foreground": "#81c784"
 			}
 		},
 		{
