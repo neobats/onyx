@@ -9,7 +9,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#ff5722"
+				"foreground": "#b66"
 			}
 		},
 		{
@@ -20,7 +20,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#81c784"
+				"foreground": "#696"
 			}
 		},
 		{
@@ -39,14 +39,14 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#c2bf36"
+				"foreground": "#868"
 			}
 		},
 		{
 			"name": "Global definitions",
 			"scope": "entity.name",
 			"settings": {
-				"foreground": "#f1aa3f"
+				"foreground": "#49b"
 			}
 		},
 		{
@@ -74,19 +74,19 @@
 		"sideBar.background": "#101010",
 		"editorGroupHeader.tabsBackground": "#101010",
 		"activityBar.background": "#101010",
-		"activityBar.foreground": "#bbb",
+		"activityBar.foreground": "#ccc",
 		"editorLineNumber.foreground": "#aaa",
 		"editorCursor.foreground": "#0277bd",
-		"editorCursor.background": "#fff",
+		"editorCursor.background": "#ccc",
 		"editor.findMatchBackground": "#942503",
 		"editor.findMatchHighlightBackground": "#521300",
 		"statusBar.background": "#1a237e",
-		"statusBar.foreground": "#Fff",
+		"statusBar.foreground": "#ccc",
 		"statusBar.debuggingBackground": "#bf360c",
-		"statusBar.debuggingForeground": "#fff",
+		"statusBar.debuggingForeground": "#ccc",
 		"statusBar.noFolderBackground": "#4a148c",
-		"statusBar.noFolderForeground": "#fff",
-		"terminal.ansiWhite": "#BBBBBB",
+		"statusBar.noFolderForeground": "#ccc",
+		"terminal.ansiWhite": "#ccc",
 		"terminal.ansiBlack": "#000000",
 		"terminal.ansiBlue": "#325CC0",
 		"terminal.ansiCyan": "#0083B2",
@@ -94,7 +94,7 @@
 		"terminal.ansiMagenta": "#7A3E9D",
 		"terminal.ansiRed": "#AA3731",
 		"terminal.ansiYellow": "#CB9000",
-		"terminal.ansiBrightWhite": "#bbb",
+		"terminal.ansiBrightWhite": "#ccc",
 		"terminal.ansiBrightBlack": "#777777",
 		"terminal.ansiBrightBlue": "#007ACC",
 		"terminal.ansiBrightCyan": "#00AACB",
