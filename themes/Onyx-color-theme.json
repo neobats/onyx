@@ -115,6 +115,7 @@
     "editorGroupHeader.tabsBackground": "#101010",
     "activityBar.background": "#101010",
     "activityBar.foreground": "#ccc",
+    "activityBarBadge.background": "#0c0e2e",
     "editorLineNumber.foreground": "#aaa",
     "editorCursor.foreground": "#003863",
     "editorCursor.background": "#ccc",
